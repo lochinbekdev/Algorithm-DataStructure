@@ -10,4 +10,4 @@ def quicksort(array):
     
 print(quicksort([10,-2,2,-1]))
 
-
+    
